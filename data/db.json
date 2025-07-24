@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My first Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Made a video about Tesla Q1 result"
+    },
+    {
+      "id": 2,
+      "title": "My 2nd Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "I addtended a DeFi blockchain event"
+    },
+    {
+      "id": 3,
+      "title": "My 3rd Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Web3 global summit next week"
+    },
+    {
+      "id": 4,
+      "title": "My 4th Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "ETH will outperform BTC"
+    },
+    {
+      "id": 5,
+      "title": "My 6th Post",
+      "datetime": "July 24, 2025 11:39:52 AM",
+      "body": "I am happy."
+    }
+  ]
+}
